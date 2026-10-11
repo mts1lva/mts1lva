@@ -19,13 +19,13 @@ Desenvolvedor Full Stack com foco em **back-end, arquitetura e sistemas distribu
 
 ## Trajetória
 
-| | |
-|:--|:--|
-| **ATI** · Full Stack <br><sub>jul/2026 — atual</sub> | Supervisório de usinas solares (Geração Distribuída) com **agente de IA** e **Gêmeo Digital** para monitoramento e operação. |
-| **Porto Digital** · Líder de squad <br><sub>Recrutamento</sub> | Liderança técnica de squad no desenvolvimento de um **ecossistema de recrutamento**. |
-| **CBMSE** · Back-end <br><sub>Corpo de Bombeiros de Sergipe</sub> | API com **DDD e Clean Architecture**, CI/CD com **Jenkins**, autenticação via **Keycloak** e cache com **Redis**. |
-| **Bonsae** · Back-end <br><sub>Laravel</sub> | Relatórios **assíncronos** com mais de **20 mil linhas**, eliminando timeouts em produção. |
-| **Unit / LACEN** · Front-end <br><sub>Vue.js</sub> | Interfaces em **Vue** para o sistema do Laboratório Central. |
+<table>
+<tr><td width="230" valign="top"><b>ATI</b> · Full Stack <br><sub>jul/2026 — atual</sub></td><td valign="top">Supervisório de usinas solares (Geração Distribuída) com <b>agente de IA</b> e <b>Gêmeo Digital</b> para monitoramento e operação.</td></tr>
+<tr><td width="230" valign="top"><b>Porto Digital</b> · Líder de squad <br><sub>Recrutamento</sub></td><td valign="top">Liderança técnica de squad no desenvolvimento de um <b>ecossistema de recrutamento</b>.</td></tr>
+<tr><td width="230" valign="top"><b>CBMSE</b> · Back-end <br><sub>Corpo de Bombeiros de Sergipe</sub></td><td valign="top">API com <b>DDD e Clean Architecture</b>, CI/CD com <b>Jenkins</b>, autenticação via <b>Keycloak</b> e cache com <b>Redis</b>.</td></tr>
+<tr><td width="230" valign="top"><b>Bonsae</b> · Back-end <br><sub>Laravel</sub></td><td valign="top">Relatórios <b>assíncronos</b> com mais de <b>20 mil linhas</b>, eliminando timeouts em produção.</td></tr>
+<tr><td width="230" valign="top"><b>Unit / LACEN</b> · Front-end <br><sub>Vue.js</sub></td><td valign="top">Interfaces em <b>Vue</b> para o sistema do Laboratório Central.</td></tr>
+</table>
 
 <br>
 
@@ -40,10 +40,10 @@ Desenvolvedor Full Stack com foco em **back-end, arquitetura e sistemas distribu
 ## Stack
 
 <table>
-<tr><td width="120"><sub><b>BACK-END</b></sub></td><td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs,ts&theme=dark&perline=8"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs,ts&theme=light&perline=8"><img alt="Back-end" src="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs,ts&theme=dark&perline=8" height="40"></picture></td></tr>
-<tr><td><sub><b>FRONT-END</b></sub></td><td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,html,css&theme=dark&perline=8"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,html,css&theme=light&perline=8"><img alt="Front-end" src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,html,css&theme=dark&perline=8" height="40"></picture></td></tr>
-<tr><td><sub><b>DADOS</b></sub></td><td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,redis,rabbitmq&theme=dark&perline=8"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,redis,rabbitmq&theme=light&perline=8"><img alt="Dados" src="https://skillicons.dev/icons?i=postgres,mysql,redis,rabbitmq&theme=dark&perline=8" height="40"></picture></td></tr>
-<tr><td><sub><b>DEVOPS</b></sub></td><td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,azure,githubactions,jenkins,git,linux&theme=dark&perline=8"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,azure,githubactions,jenkins,git,linux&theme=light&perline=8"><img alt="DevOps" src="https://skillicons.dev/icons?i=docker,azure,githubactions,jenkins,git,linux&theme=dark&perline=8" height="40"></picture></td></tr>
+<tr><td width="120"><sub><b>BACK-END</b></sub></td><td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs,ts&theme=dark&perline=8"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs,ts&theme=light&perline=8"><img alt="Back-end" src="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs,ts&theme=dark&perline=8" width="288"></picture></td></tr>
+<tr><td><sub><b>FRONT-END</b></sub></td><td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,html,css&theme=dark&perline=8"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,html,css&theme=light&perline=8"><img alt="Front-end" src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,html,css&theme=dark&perline=8" width="288"></picture></td></tr>
+<tr><td><sub><b>DADOS</b></sub></td><td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,redis,rabbitmq&theme=dark&perline=8"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,redis,rabbitmq&theme=light&perline=8"><img alt="Dados" src="https://skillicons.dev/icons?i=postgres,mysql,redis,rabbitmq&theme=dark&perline=8" width="192"></picture></td></tr>
+<tr><td><sub><b>DEVOPS</b></sub></td><td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,azure,githubactions,jenkins,git,linux&theme=dark&perline=8"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,azure,githubactions,jenkins,git,linux&theme=light&perline=8"><img alt="DevOps" src="https://skillicons.dev/icons?i=docker,azure,githubactions,jenkins,git,linux&theme=dark&perline=8" width="288"></picture></td></tr>
 </table>
 
 <br>
