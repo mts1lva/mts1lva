@@ -40,10 +40,10 @@ Desenvolvedor Full Stack com foco em **back-end, arquitetura e sistemas distribu
 ## Stack
 
 <table>
-<tr><td width="120"><sub><b>BACK-END</b></sub></td><td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs,ts&theme=dark&perline=8"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs,ts&theme=light&perline=8"><img alt="Back-end" src="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs,ts&theme=dark&perline=8" width="288"></picture></td></tr>
-<tr><td><sub><b>FRONT-END</b></sub></td><td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,html,css&theme=dark&perline=8"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,html,css&theme=light&perline=8"><img alt="Front-end" src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,html,css&theme=dark&perline=8" width="288"></picture></td></tr>
-<tr><td><sub><b>DADOS</b></sub></td><td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,redis,rabbitmq&theme=dark&perline=8"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,redis,rabbitmq&theme=light&perline=8"><img alt="Dados" src="https://skillicons.dev/icons?i=postgres,mysql,redis,rabbitmq&theme=dark&perline=8" width="192"></picture></td></tr>
-<tr><td><sub><b>DEVOPS</b></sub></td><td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,azure,githubactions,jenkins,git,linux&theme=dark&perline=8"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,azure,githubactions,jenkins,git,linux&theme=light&perline=8"><img alt="DevOps" src="https://skillicons.dev/icons?i=docker,azure,githubactions,jenkins,git,linux&theme=dark&perline=8" width="288"></picture></td></tr>
+<tr><td width="120"><sub><b>BACK-END</b></sub></td><td><img src="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs,ts&theme=dark&perline=8" alt="Back-end" height="44"></td></tr>
+<tr><td><sub><b>FRONT-END</b></sub></td><td><img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,html,css&theme=dark&perline=8" alt="Front-end" height="44"></td></tr>
+<tr><td><sub><b>DADOS</b></sub></td><td><img src="https://skillicons.dev/icons?i=postgres,mysql,redis,rabbitmq&theme=dark&perline=8" alt="Dados" height="44"></td></tr>
+<tr><td><sub><b>DEVOPS</b></sub></td><td><img src="https://skillicons.dev/icons?i=docker,azure,githubactions,jenkins,git,linux&theme=dark&perline=8" alt="DevOps" height="44"></td></tr>
 </table>
 
 <br>
